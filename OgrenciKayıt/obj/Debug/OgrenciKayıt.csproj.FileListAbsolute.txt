@@ -1,0 +1,9 @@
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\bin\Debug\OgrenciKayıt.exe.config
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\bin\Debug\OgrenciKayıt.exe
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\bin\Debug\OgrenciKayıt.pdb
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\Debug\OgrenciKayıt.csprojAssemblyReference.cache
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\Debug\OgrenciKayıt.Form1.resources
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\Debug\OgrenciKayıt.Properties.Resources.resources
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\Debug\OgrenciKayıt.csproj.GenerateResource.cache
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\Debug\OgrenciKayıt.exe
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\Debug\OgrenciKayıt.pdb

@@ -1,0 +1,37 @@
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe.config
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.pdb
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Form1.resources
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Properties.Resources.resources
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csproj.GenerateResource.cache
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.exe
+C:\Users\Husnu\source\repos\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.pdb
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe.config
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.pdb
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csprojAssemblyReference.cache
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Form1.resources
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Properties.Resources.resources
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csproj.GenerateResource.cache
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.exe
+F:\NTP 1D2U 2020\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.pdb
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe.config
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.pdb
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csproj.AssemblyReference.cache
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Form1.resources
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Properties.Resources.resources
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csproj.GenerateResource.cache
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csproj.CoreCompileInputs.cache
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.exe
+C:\Users\Husnu_MttMtal\Desktop\2021-2022\NTP 1D2U 2021\No_Ad_Soyad\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.pdb
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe.config
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.exe
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\bin\x86\Debug\OgrenciKayıt.pdb
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csprojAssemblyReference.cache
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Form1.resources
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.Properties.Resources.resources
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csproj.GenerateResource.cache
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.csproj.CoreCompileInputs.cache
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.exe
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru1\OgrenciKayıt\OgrenciKayıt\obj\x86\Debug\OgrenciKayıt.pdb
